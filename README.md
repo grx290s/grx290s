@@ -3,6 +3,7 @@
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguers/)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c6be7943a80207eb?mp_source=share)
+<br/>
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/24809234/?ref=app)
 
 <!--![Gustavo Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguers&show_icons=true&theme=dark) -->
