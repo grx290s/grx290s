@@ -4,7 +4,7 @@
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguers/) 
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/24809234/?ref=app)
 
-![Gustavo Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguers&show_icons=true&theme=dark)
+![Gustavo Rodrigues's GitHub stats]()
 
 ### Technologies:
 
