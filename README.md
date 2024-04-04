@@ -1,5 +1,5 @@
 ### Hi there! 👋
-#### My name is Gustavo Rodrigues. I am a Mid Level Full Stack Developer with experience building websites for small and medium-sized businesses. I'm proficient in Javascript ES6, and Typescript.
+#### My name is Gustavo Rodrigues. I am a Mid Level Full Stack Web Developer with experience building websites for small and medium-sized businesses. I'm proficient in Javascript ES6, and Typescript.
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguers/) 
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/24809234/?ref=app)
