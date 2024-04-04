@@ -5,8 +5,6 @@
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/24809234/?ref=app)
 
 <!--![Gustavo Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguers&show_icons=true&theme=dark) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguers&layout=compact&theme=dark)](https://github.com/rodriguers)
-
 ### Technologies:
 
 <div style="display: inline_block">
@@ -36,3 +34,6 @@
 </ul>
 </div>
 <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguers&layout=compact&theme=dark)](https://github.com/rodriguers)
+
