@@ -1,8 +1,8 @@
 ### Hi there! 👋
 #### My name is Gustavo Rodrigues. I am a Mid Level Full Stack Web Developer with experience building websites for small and medium-sized businesses. I'm proficient in Javascript ES6, and Typescript.
 
-[![LinkedIn](httpss://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](httpss://www.linkedin.com/in/qrx290s/)
-[![UpWork](httpss://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](httpss://www.upwork.com/freelancers/~01c6be7943a80207eb?mp_source=share)
+[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grx290s/)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c6be7943a80207eb?mp_source=share)
 <br/>
 
 <!--![Gustavo Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguers&show_icons=true&theme=dark) -->
@@ -38,4 +38,3 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grx290s&layout=compact&theme=dark)](https://github.com/grx290s)
-
