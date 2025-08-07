@@ -3,7 +3,6 @@
 
 [![LinkedIn](httpss://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](httpss://www.linkedin.com/in/qrx290s/)
 [![UpWork](httpss://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](httpss://www.upwork.com/freelancers/~01c6be7943a80207eb?mp_source=share)
-
 <br/>
 
 <!--![Gustavo Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriguers&show_icons=true&theme=dark) -->
