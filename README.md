@@ -33,8 +33,8 @@
     <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   </div>
   <br/>
-  <div align="end">
-    
-  [![Top Langs](https://grx290s-readme-stats.vercel.app/api/top-langs/?username=grx290s&show_icons=true&layout=compact&theme=dark)](https://github.com/grx290s)   
+  <div>
+    <img width="40%" src="https://grx290s-readme-stats.vercel.app/api/?username=grx290s&theme=dark&hide_border=true">
+    <img width="37%" src="https://grx290s-readme-stats.vercel.app/api/top-langs/?username=grx290s&theme=dark&hide_border=true&layout=compact">
   </div>
 </div>
