@@ -35,10 +35,6 @@
   <br/>
   <div align="end">
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grx290s)](https://github.com/grx290s/github-readme-stats) 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grx290s&layout=compact&theme=dark)](https://github.com/grx290s)   
   </div>
 </div>
-
-
-
